@@ -1,0 +1,8 @@
+*.DS_Store
+*.sw?
+*.css
+*.m~
+.git.bfg-report
+*.md.sw?
+octave-workspace
+git_log.txt
