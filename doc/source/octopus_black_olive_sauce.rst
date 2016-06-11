@@ -1,6 +1,8 @@
 Octopus with black olive sauce
 ==============================
 
+.. figure:: _static/octopus_black_olive_sauce.png
+
 - Serves: 4
 
 - Type: entry
@@ -32,14 +34,41 @@ Note:
 
     A fresh octopus has a lot of intact fibre, which means that it needs mechanical tenderization (pounding it repeatedly). For this reason, frozen octupus may be recommended.
 
+	.. figure:: _static/octopus_mechanical_tenderization.png
+
+		Mechanical tenderization of an octopus
+
 Steps
 -----
 #. Cut the onion in 4 parts
+
+	.. figure:: _static/octopus_with_onions.png
+
+		Octopus and onions
+
 #. Boil 2.5 l of water with the salt, bayleaf and cut onion
-#. Clean the octopus. Its brain should have already been removed when you bought it.
+#. Clean the octopus. (It is assumed that its brain has already been removed before you got it.)
 #. When the water poils, hold the octopus with a fork and submerge it in the water for 20 seconds, then remove it. Repeat 3 times. If the octopus was frozen, make sure that the water is boiling each time the octupus is placed in the water
+
+	.. figure:: _static/octopus_submerged.png
+
+		Hold the octopus with a fork to submerge it in boiling water
+
+	.. figure:: _static/octopus_submerged.png
+
+		Octopus submerged in boiling water
+
 #. Now that the octopus has been cooked, remove the beak (between the tentacles) and eyes (if present). Place the octopus on a plate and let it cool
 #. When the octopus has cooled down, cut it in pieces of about half a centimeter thickness.
+
+	.. figure:: _static/octopus_cutting.png
+
+		Slicing the octopus' tentacles
+
+	.. figure:: _static/octopus_slices.png
+
+		The octopus' tentacles, sliced
+
 #. Use a bowl to make the cream sauce by mixing the mayonaise, lemon juice, the black pepper, and the black olive sauce.
 #. To serve, for each person: place the octopus on a plate and place the sauce on top. Optionally decorate with parsley.
 
