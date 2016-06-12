@@ -1,7 +1,7 @@
 Octopus with black olive sauce
 ==============================
 
-.. figure:: _static/octopus_black_olive_sauce.png
+.. figure:: _static/octopus_black_olive_sauce.jpg
 
 - Serves: 4
 
@@ -34,7 +34,7 @@ Note:
 
     A fresh octopus has a lot of intact fibre, which means that it needs mechanical tenderization (pounding it repeatedly). For this reason, frozen octupus may be recommended.
 
-	.. figure:: _static/octopus_mechanical_tenderization.png
+	.. figure:: _static/octopus_mechanical_tenderization.jpg
 
 		Mechanical tenderization of an octopus
 
@@ -42,7 +42,7 @@ Steps
 -----
 #. Cut the onion in 4 parts
 
-	.. figure:: _static/octopus_with_onions.png
+	.. figure:: _static/octopus_with_onions.jpg
 
 		Octopus and onions
 
@@ -50,22 +50,22 @@ Steps
 #. Clean the octopus. (It is assumed that its brain has already been removed before you got it.)
 #. When the water poils, hold the octopus with a fork and submerge it in the water for 20 seconds, then remove it. Repeat 3 times. If the octopus was frozen, make sure that the water is boiling each time the octupus is placed in the water
 
-	.. figure:: _static/octopus_submerged.png
+	.. figure:: _static/octopus_submerged.jpg
 
 		Hold the octopus with a fork to submerge it in boiling water
 
-	.. figure:: _static/octopus_submerged.png
+	.. figure:: _static/octopus_submerged.jpg
 
 		Octopus submerged in boiling water
 
 #. Now that the octopus has been cooked, remove the beak (between the tentacles) and eyes (if present). Place the octopus on a plate and let it cool
 #. When the octopus has cooled down, cut it in pieces of about half a centimeter thickness.
 
-	.. figure:: _static/octopus_cutting.png
+	.. figure:: _static/octopus_cutting.jpg
 
 		Slicing the octopus' tentacles
 
-	.. figure:: _static/octopus_slices.png
+	.. figure:: _static/octopus_slices.jpg
 
 		The octopus' tentacles, sliced
 

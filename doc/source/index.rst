@@ -12,6 +12,7 @@ Recipes:
    :maxdepth: 1
 
    octopus_black_olive_sauce
+   perch_garlic
 
 
 
