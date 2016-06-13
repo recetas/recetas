@@ -15,12 +15,13 @@ clean html epub:
 
 deploy: html
 	echo $(REPO)
-	cd doc/build/html; \
+	cd doc/build/; \
 	git config user.name $(GIT_USER_NAME); \
 	git config user.email $(GIT_USER_EMAIL); \
-    git clone https://github.com/nno/recetas.gh-pages.git
+    git clone https://github.com/nno/recetas.gh-pages.git; \
 	git checkout gh-pages; \
-	git add . ; \
+	cd recetas.gh-pages; \
+	git add ../html/* ; \
 	git commit -m "gh-pages deployment"; \
 	openssl aes-256-cbc -K $(encrypted_946d2a4c8154_key) -iv $(encrypted_946d2a4c8154_iv) -in ../../deploy-key.enc -out ./deploy-key
 	#git push 
