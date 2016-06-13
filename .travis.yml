@@ -12,7 +12,7 @@ cache:
   - apt
 env:
  global:
-    - ENCRYPTION_LABEL: 946d2a4c8154
+    - ENCRYPTION_LABEL=946d2a4c8154
 before_install:
     # to prevent IPv6 being used for APT
     - sudo bash -c "echo 'Acquire::ForceIPv4 \"true\";' > /etc/apt/apt.conf.d/99force-ipv4"
