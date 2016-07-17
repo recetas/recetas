@@ -13,6 +13,7 @@ Recipes:
 
    octopus_black_olive_sauce
    perch_garlic
+   trout_and_sea_bream_barbeque
 
 
 
