@@ -71,7 +71,7 @@ Steps
 #. After the chicken has been marinated, take it from the bowl and place the slices peppers on top of the chicken. 
 #. Roll the filets and use a toothpick to avoid them from un-rolling.
 
-     .. figure:: _static/chicken_rolls_cut_rolling.jpg
+     .. figure:: _static/chicken_rolls_rolling.jpg
 
         Roll the chicken filets with the peppers inside
 
