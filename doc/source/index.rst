@@ -14,6 +14,7 @@ Recipes:
    octopus_black_olive_sauce
    perch_garlic
    trout_and_sea_bream_barbeque
+   chicken_rolls_baked_fajitas_version
 
 
 
