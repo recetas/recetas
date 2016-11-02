@@ -1,6 +1,6 @@
 # Recetas
 
-Recetas is a git repository with food recipes.
+Recetas is a git repository with food recipes. Most are low-carb, all are tasty.
 
 #### How to open a terminal window
 Commands shown below must be run in a terminal window. On a mac, this can be the Terminal or iTerm application.
