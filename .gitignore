@@ -6,3 +6,4 @@
 *.md.sw?
 octave-workspace
 git_log.txt
+*.pyc
