@@ -190,3 +190,22 @@ pseudoxml:
 	$(SPHINXBUILD) -b pseudoxml $(ALLSPHINXOPTS) $(BUILDDIR)/pseudoxml
 	@echo
 	@echo "Build finished. The pseudo-XML files are in $(BUILDDIR)/pseudoxml."
+
+gh: html
+	rm -rf $(BUILDDIR)/gh-pages
+	mkdir $(BUILDDIR)/gh-pages
+	cd $(BUILDDIR)/gh-pages && git init
+	mv -fv $(BUILDDIR)/html/* $(BUILDDIR)/gh-pages/
+	touch $(BUILDDIR)/gh-pages/.nojekyll
+	cd $(BUILDDIR)/gh-pages && \
+			git add * && \
+			git add .nojekyll && \
+			git commit -am 'GH: commit' && \
+			git remote add origin https://github.com/recetas/recetas.github.io.git && \
+			git push -f origin master
+			
+	
+
+	
+	
+

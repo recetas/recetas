@@ -39,7 +39,7 @@ The recipes can be converted to ``html`` web format, or to ``epub`` book format.
 - for html:
 
     ```
-    cd ~/git/recetas/source
+    cd ~/git/recetas/doc
     make html
     open build/html/index.html
     ```
@@ -47,9 +47,16 @@ The recipes can be converted to ``html`` web format, or to ``epub`` book format.
 - for epub:
 
     ```
-    cd ~/git/recetas/source
+    cd ~/git/recetas/doc
     make epub
     open build/epub/Recetas.epub
+
+- to update github pages:
+
+    ```
+    cd ~/git/recetas/doc
+    make gh
+    open https://recetas.github.io
     ```
 
 ### Adding the recipe to a git repository
