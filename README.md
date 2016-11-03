@@ -64,24 +64,32 @@ The recipes can be converted to ``html`` web format, or to ``epub`` book format.
 
 - Before adding a new recipe to the repository, make sure it can be converted to html without problems, that all the images are present, and generally everything looks fine.
 - Tell ``git`` about any the new files. For example, if your new recipe is ``garlic_sauce.rst`` and you also added images ``garlic_sauce01.jpg`` and ``garlic_sauce02.rst`` in the ``_static`` directory, you can run
+
     ```
     cd ~/git/recetas
     git add garlic_sauce.rst
     git add _static/garlic_sauce*.jpg
     ```
+
   If necessary, run ``git status`` to see which files have been added.
 - It is also possible to update the contents of all files, by running
+
     ```
     git add -u
     ```
+
 - When all changes have (``git status`` does not mention any untracked files), you can commit the changes using
+
     ```
     git commit -m 'NF: added new recipe for garlic sauce'
     ```
+
 - Finally, to update the repository online (on github), run
+
     ```
     git push origin master
     ```
+
   If other people now run ``git pull origin master``, they will receive the changes you just made.
 
 
