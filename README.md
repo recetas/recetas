@@ -50,6 +50,7 @@ The recipes can be converted to ``html`` web format, or to ``epub`` book format.
     cd ~/git/recetas/doc
     make epub
     open build/epub/Recetas.epub
+    ```
 
 - to update github pages:
 
