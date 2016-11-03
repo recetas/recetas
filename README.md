@@ -62,11 +62,16 @@ The recipes can be converted to ``html`` web format, or to ``epub`` book format.
 
 ### Adding the recipe to a git repository
 
-- Before adding a new recipe to the repository, make sure it can be converted to html without problems, that all the images are present, and generally everything looks fine.
+- Before adding a new recipe to the repository, please make sure that
+
+    * the recipe can be converted to html without problems (see above)
+    * all the images are present
+    * and generally everything looks fine
+
 - Tell ``git`` about any the new files. For example, if your new recipe is ``garlic_sauce.rst`` and you also added images ``garlic_sauce01.jpg`` and ``garlic_sauce02.rst`` in the ``_static`` directory, you can run
 
     ```
-    cd ~/git/recetas
+    cd ~/git/recetas/doc/source
     git add garlic_sauce.rst
     git add _static/garlic_sauce*.jpg
     ```
