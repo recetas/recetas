@@ -1,19 +1,18 @@
 Rabbit with mustard sauce
 =========================
+
+    .. figure:: _static/rabbit	_mustard_5.jpg
+
+I am new in cooking rabbit... I had bunnies when I was a kid/teenager and just the idea to eat something so fluffy and cute was as imaging myself eating my cuddly toy. So, my SO likes rabbit and one day I decided to get over about this idea and try new things. I must to confess that at the end I really liked rabbit. It is tastier than chicken... but it has to be in pieces and without the head in the pack. I was looking for recipes and I found this recipe that combines mustard (I really love mustard) and cream (my inner fat girl is happy all the times when there is cream around). This recipe is really tasty, I like the combination of all theses spices and the mustard in a very delicate cream.
+
+
 - Serves: 2
 
 - Type: main
 
 
-I am new in cooking rabbit... I had bunnies when I was a kid/teenager and just the idea to eat something so fluffy and cute was as imaging myself eating my cuddly toy. So, my SO likes rabbit and one day I decided to get over about this idea and try new things.  I must to confess that at the end I really liked rabbit. It is tastier than chicken... but it has to be in pieces and without the head in the pack.
-I was looking for recipes and I found this recipe that combines mustard (I really love mustard) and cream (my inner fat girl is happy all the times when there is cream around).
-This recipe is really tasty, I like the combination of all theses spices and the mustard in a very delicate cream. 
-
-
 Ingredients
 -----------
-
-    .. figure:: _static/rabbit	_mustard_1.jpg
 
 
 - 1 small rabbit in pieces: for this recipe I used some loin slices 
