@@ -6,23 +6,47 @@
 Recetas: food recipes
 ======================
 
+Starters
+--------
 .. toctree::
    :maxdepth: 1
 
    octopus_black_olive_sauce
+  
+   
+
+Mains
+-----
+.. toctree::
+   :maxdepth: 1
+
+   pork_chops_lemon_cream
+   rabbit_mustard_sauce
+   curry_soup
+   chicken_lime_cilantro
+   spinach_coriander_meatballs
+   ossobuchi_alla_milanese
    perch_garlic
    trout_and_sea_bream_barbeque
    chicken_rolls_baked_fajitas_version
    pizzaiola_veal_steak
-   lemoncake
-   pork_chops_lemon_cream
-   rabbit_mustard_sauce
+
+Side dishes
+-----------
+.. toctree::
+   :maxdepth: 1
+
    saute_champignons
-   curry_soup
-   chicken_lime_cilantro
+
+Deserts
+--------
+.. toctree::
+   :maxdepth: 1
+
+   lemoncake
    low_carb_pancakes
-   spinach_coriander_meatballs
-   ossobuchi_alla_milanese
+   poema_chocolate
+   
 
 
 
