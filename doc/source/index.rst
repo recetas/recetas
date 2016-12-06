@@ -50,7 +50,14 @@ Deserts
    low_carb_pancakes
    poema_chocolate
    
+Others
+------
+.. toctree::
+   :maxdepth: 1
 
+    garlic butter
+    sour cream
+    marinara sauce
 
 
 
