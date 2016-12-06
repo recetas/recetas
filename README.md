@@ -2,6 +2,10 @@
 
 Recetas is a git repository with food recipes. Most are low-carb, all are tasty.
 
+To view recipes: https://recetas.github.io
+
+Source code: https://github.com/recetas/recetas
+
 #### How to open a terminal window
 Commands shown below must be run in a terminal window. On a mac, this can be the Terminal or iTerm application.
 
@@ -10,6 +14,7 @@ This only has to be done once. After opening a terminal window, run
 ```
 cd ~
 mkdir git
+cd git
 git clone https://github.com/recetas/recetas.git
 ```
 This will install Recetas in ``${HOME}/git/recetas``. In the remainder of this document, we will assume that Recetas is installed in that directory.
