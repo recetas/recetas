@@ -33,5 +33,5 @@ preparing the Tomato marinara sauce
 
 Can be served with
 ------------------
-Spaghetti
-Meatballs
+- Spaghetti
+- Meatballs

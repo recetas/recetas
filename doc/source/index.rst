@@ -31,8 +31,9 @@ Mains
    perch_garlic
    trout_and_sea_bream_barbeque
    chicken_rolls_baked_fajitas_version
-   pizzaiola_veal_steak
+   pizzaiola_veal_csteak
    soy_chicken_veggie_saute
+   zucchini_cannelloni
 
 Side dishes
 -----------
@@ -55,9 +56,9 @@ Others
 .. toctree::
    :maxdepth: 1
 
-    garlic butter
-    sour cream
-    marinara sauce
+    garlic_butter
+    sour_cream
+    marinara_sauce
 
 
 
