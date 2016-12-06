@@ -6,13 +6,14 @@
 Recetas: food recipes
 ======================
 
-Starters
---------
+Starters or appetizers
+----------------------
 .. toctree::
    :maxdepth: 1
 
    octopus_black_olive_sauce
    caprese_salad
+   stuffed_champignons
   
    
 
