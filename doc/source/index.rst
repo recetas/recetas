@@ -12,6 +12,7 @@ Starters
    :maxdepth: 1
 
    octopus_black_olive_sauce
+   caprese_salad
   
    
 
@@ -30,6 +31,7 @@ Mains
    trout_and_sea_bream_barbeque
    chicken_rolls_baked_fajitas_version
    pizzaiola_veal_steak
+   soy_chicken_veggie_saute
 
 Side dishes
 -----------
