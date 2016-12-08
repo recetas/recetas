@@ -4,6 +4,7 @@ Almond flour pancakes (low-carb)
 	.. figure:: _static/pancakes_1.jpg
 
 	Pancakes served with cream cheese and bacon... yummy! 
+
 - Serves: 2
 
 - Type: Dessert - breakfast main

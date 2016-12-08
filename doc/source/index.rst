@@ -24,6 +24,7 @@ Mains
 
    pork_chops_lemon_cream
    rabbit_mustard_sauce
+   mushroom_rabbit
    curry_soup
    chicken_lime_cilantro
    spinach_coriander_meatballs
@@ -31,10 +32,12 @@ Mains
    perch_garlic
    trout_and_sea_bream_barbeque
    chicken_rolls_baked_fajitas_version
-   pizzaiola_veal_csteak
-   soy_chicken_veggie_sate
+   pizzaiola_veal_steak
+   soy_chicken_veggie_saute
    zucchini_cannelloni
    schweinshaxe
+   classic_meatballs
+  
 
 Side dishes
 -----------
@@ -59,11 +62,10 @@ Others
 .. toctree::
    :maxdepth: 1
 
-    garlic_butter
-    sour_cream
-    marinara_sauce
-    gravy
-
+   garlic_butter
+   sour_cream
+   marinara_sauce
+   gravy
 
 
 

@@ -1,5 +1,6 @@
-Rabbit with mix mushrooms and artichokes
-========================================
+Rabbit with mixed mushrooms and artichokes
+==========================================
+
 	.. figure:: _static/mush_rabbit2.jpg
 
 - Serves: 4
@@ -9,7 +10,7 @@ Rabbit with mix mushrooms and artichokes
 
 Background
 ----------
-Today's holiday. I had a rabbit loin to cook and I was thinking to do something different than :doc:'rabbit_mustard_sauce'. So, I decided to look for new recipes online... but after pressing enter my screen was full of cute-fluffy bunnies pictures. Oh dear!, how I will continue with my programs!It was challenging, in one hand guilt feelings and in the other hunger. I decided to continue with my original plans after my boyfriend and I had a talk about life. 
+Today's holiday. I had a rabbit loin to cook and I was thinking to do something different than :doc:`rabbit_mustard_sauce`. So, I decided to look for new recipes online... but after pressing enter my screen was full of cute-fluffy bunnies pictures. Oh dear!, how I will continue with my programs!It was challenging, in one hand guilt feelings and in the other hunger. I decided to continue with my original plans after my boyfriend and I had a talk about life. 
 I found different recipes and all of them seemed tasty so I decided to take the best part of each of one and make my own one. I have to say it was so tasty and so far I will use it more often (if I will decide to eat rabbit again). My advice is:  to be precise when googling for recipes that involves cute fluffy animals. 
 
 
@@ -78,7 +79,7 @@ Steps
 
 Can be served with
 ------------------
-- Green beans: :doc:'butter_greenbeans'
+- Green beans: :doc:`butter_greenbeans`
 - Polenta
 - Potato purée 
 - Cooked vegetables

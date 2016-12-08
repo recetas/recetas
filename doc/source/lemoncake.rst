@@ -1,5 +1,5 @@
 Low Carb Lemon Cream Cake
-========================
+=========================
 
 	.. figure:: _static/lemoncake5.jpg
 

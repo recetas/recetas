@@ -1,5 +1,5 @@
 Schweinshaxe (pork shank)
-========================
+=========================
 
 
 - Serves: 2
@@ -56,7 +56,7 @@ Steps
 
 Can be served with
 ------------------
-- Jacket potato (:doc:'jacket_potato')
+- Jacket potato (:doc:`jacket_potato`)
 - Polenta
 - Sauerkraut
 - Mixed mushrooms sauté

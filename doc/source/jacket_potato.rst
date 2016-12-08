@@ -9,12 +9,12 @@ Sour cream jacket potato
 
 Background
 ----------
-As mentioned in the sour cream recipe (:doc:'sour_cream'), I become a big fan of jacket potatoes in Munich. Since then I try to make this delicious side dish when is possible no matter the cholesterol in the cream.
+As mentioned in the sour cream recipe (:doc:`sour_cream`), I become a big fan of jacket potatoes in Munich. Since then I try to make this delicious side dish when is possible no matter the cholesterol in the cream.
 
 Ingredients
 -----------
 - 2 medium potatoes
-- 150 ml sour cream (:doc:'sour_cream')
+- 150 ml sour cream (:doc:`sour_cream`)
 - Butter
 - Salt and pepper to taste
 
@@ -35,7 +35,7 @@ Steps
 
 Can be served with
 ------------------
-- Stinco ( :doc:'schweinshaxe' )
+- Stinco ( :doc:`schweinshaxe` )
 - Beef steak
 - Chicken 
 - Pork

@@ -36,6 +36,7 @@ Steps
 
 
 	.. figure:: _static/garlic_butter1.jpg
+	
 	Ingredients and steps
 
 
