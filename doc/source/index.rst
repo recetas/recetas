@@ -32,8 +32,9 @@ Mains
    trout_and_sea_bream_barbeque
    chicken_rolls_baked_fajitas_version
    pizzaiola_veal_csteak
-   soy_chicken_veggie_saute
+   soy_chicken_veggie_sate
    zucchini_cannelloni
+   schweinshaxe
 
 Side dishes
 -----------
@@ -41,6 +42,8 @@ Side dishes
    :maxdepth: 1
 
    saute_champignons
+   butter_greenbeans
+   jacket_potato
 
 Deserts
 --------
@@ -59,6 +62,8 @@ Others
     garlic_butter
     sour_cream
     marinara_sauce
+    gravy
+
 
 
 
