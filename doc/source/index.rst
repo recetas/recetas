@@ -37,6 +37,7 @@ Mains
    zucchini_cannelloni
    schweinshaxe
    classic_meatballs
+   greek_chicken_soup
   
 
 Side dishes
