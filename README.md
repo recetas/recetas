@@ -1,6 +1,6 @@
 # Recetas
 
-Recetas is a git repository with food recipes. Most are low-carb, all are tasty.
+Recetas is a git repository with food recipes. Most are low-carb; all are tasty.
 
 To view recipes: https://recetas.github.io
 
@@ -11,12 +11,14 @@ Commands shown below must be run in a terminal window. On a mac, this can be the
 
 #### Download Recetas
 This only has to be done once. After opening a terminal window, run
-```
-cd ~
-mkdir git
-cd git
-git clone https://github.com/recetas/recetas.git
-```
+
+    ```
+    cd ~
+    mkdir git
+    cd git
+    git clone https://github.com/recetas/recetas.git
+    ```
+
 This will install Recetas in ``${HOME}/git/recetas``. In the remainder of this document, we will assume that Recetas is installed in that directory.
 
 #### Make sure your recetas are up-to-date
@@ -102,6 +104,17 @@ The recipes can be converted to ``html`` web format, or to ``epub`` book format.
 
   If other people now run ``git pull origin master``, they will receive the changes you just made.
 
+### Updating the github.io pages
+
+All recipes can be viewed online at http://recetas.github.io.
+To update the recetas stored there, run:
+
+    ```
+    cd ~/git/recetas/doc
+    make gh
+    ```
+
+Currently this will upload all images again, even if they are already there---so this may take a while if the internet connection is slow.
 
 ### Contact
 Karen E. Cuculiza Mendoza, karen dot cuculiza at gmail dot com
