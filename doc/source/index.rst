@@ -14,6 +14,7 @@ Starters or appetizers
    octopus_black_olive_sauce
    caprese_salad
    stuffed_champignons
+   popeye_salad
   
    
 
@@ -43,7 +44,7 @@ Mains
 Side dishes
 -----------
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 1 
 
    saute_champignons
    butter_greenbeans
