@@ -67,5 +67,5 @@ Steps
 
 		Fry the fish in seed oil
 
-#. Place kitchen paper on a place, then place the fish on the kitchen paper to absorb the oil. Optionally, add parsley for decoration.
+#. Place kitchen paper on a plate, then place the fish on the kitchen paper to absorb the oil. Optionally, add parsley for decoration.
 

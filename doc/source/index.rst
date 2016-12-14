@@ -15,6 +15,7 @@ Starters or appetizers
    caprese_salad
    stuffed_champignons
    popeye_salad
+   zucchini_quiche
   
    
 
@@ -39,6 +40,7 @@ Mains
    schweinshaxe
    classic_meatballs
    greek_chicken_soup
+   tuna_greensauce
   
 
 Side dishes

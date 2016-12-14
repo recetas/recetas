@@ -45,5 +45,5 @@ Cooking the chicken with vegetables and lime juice
 
 Can be served with
 ------------------
-- Sour cream
+- :doc:`sour_cream`
 - Tortillas

@@ -1,25 +1,31 @@
 # Recetas
 
-Recetas is a git repository with food recipes. Most are low-carb, all are tasty.
+Recetas is a git repository with food recipes. Most are low-carb; all are tasty.
 
 To view recipes: https://recetas.github.io
 
-Source code: https://github.com/recetas/recetas
+If you want to make changes to the recetas, or build the documentation yourself, you will need the source code: https://github.com/recetas/recetas
 
-#### How to open a terminal window
-Commands shown below must be run in a terminal window. On a mac, this can be the Terminal or iTerm application.
+### Get the source code
+
+#### Open a terminal window
+
+Commands shown below must be run in a terminal window. On a mac, this can be the Terminal or iTerm application. The Terminal application is typically found in Applications / Utilities.
 
 #### Download Recetas
-This only has to be done once. After opening a terminal window, run
+This only has to be done once. After opening a terminal window, run:
+
 ```
 cd ~
 mkdir git
 cd git
 git clone https://github.com/recetas/recetas.git
 ```
-This will install Recetas in ``${HOME}/git/recetas``. In the remainder of this document, we will assume that Recetas is installed in that directory.
 
-#### Make sure your recetas are up-to-date
+This will install Recetas in ``${HOME}/git/recetas``, where ``${HOME}`` is your home directory. In the remainder of this document, we will assume that Recetas is installed in that directory.
+
+### Keep your recetas are up-to-date
+
 This should be done every time someone else has added or changed recipes.
 
 In a terminal window, run
@@ -29,15 +35,19 @@ git checkout master
 git pull origin master
 ```
 
-#### How to add a recipe
-- Make sure you have downloaded Recetas, and that it is up-to-date (see above for instructions).
+### How to add a recipe
+
+#### Preparations
+- Make sure you have downloaded ``recetas``, and that it is up-to-date (see above for instructions).
 - Recipes are in the ``doc/source`` directory.
 - Think of a name for your recipe, and use it to construct a *prefix* for the filenames. There will be one file with the text of the recipe, and zero or more files with photos. To keep everything organized, we use the same prefix for the text and all photos. It is recommended to not use uppercase letters or spaces in the prefix. For example, if your recipe is based on perch, you can use ``perch`` as a prefix.
 - You can take an existing ``.rst`` recipe text file as a starting point, copy the file, and rename it to have start the prefix. You can open the ``.rst`` file in a editor such as TextEdit, and then change the text to describe the new recipe. See the ``*.rst`` files in ``doc/source`` as an example
 - Images should be converted to .jpg. If they are in another format, place them in a directory and use a program such as ``mogrify`` to convert them to jpg. Make sure all filenames start with the prefix, and move them to the ``doc/source/_static`` directory.
 - The ``.rst`` file should be added to ``index.rst``, so that the new recipe appears in the table of contents.
 
-### Building the recipes
+
+#### Building the recipes
+
 
 The recipes can be converted to ``html`` web format, or to ``epub`` book format. To do so, open a terminal window, then run
 
@@ -57,15 +67,7 @@ The recipes can be converted to ``html`` web format, or to ``epub`` book format.
     open build/epub/Recetas.epub
     ```
 
-- to update github pages:
-
-    ```
-    cd ~/git/recetas/doc
-    make gh
-    open https://recetas.github.io
-    ```
-
-### Adding the recipe to a git repository
+#### Adding a recipe to the git repository
 
 - Before adding a new recipe to the repository, please make sure that
 
@@ -101,11 +103,23 @@ The recipes can be converted to ``html`` web format, or to ``epub`` book format.
     ```
 
   If other people now run ``git pull origin master``, they will receive the changes you just made.
+  
+#### Updating the github.io pages
 
+All recipes can be viewed online at https://recetas.github.io.
+To update the recetas stored there, run:
+
+  ```
+    cd ~/git/recetas/doc
+    make gh
+    open https://recetas.github.io
+  ```
+
+Currently this will upload all images again, even if they are already there; this may take a while if the internet connection is slow.
 
 ### Contact
-Karen E. Cuculiza Mendoza, karen dot cuculiza at gmail dot com
-Nikolaas N. Oosterhof, nikolaas dot oosterhof at unitn dot it
+- Karen E. Cuculiza Mendoza, karen dot cuculiza at gmail dot com
+- Nikolaas N. Oosterhof, nikolaas dot oosterhof at unitn dot it
 
 ### License
 
@@ -131,6 +145,8 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
 
 
 

@@ -76,7 +76,7 @@ Can be served with
 ------------------
 
 - :doc:`saute_champignons` (if you are also in a ketodiet)
-- green beans with garlic butter
+- :doc:`butter_greenbeans`
 - risotto alla milanese 
 - polenta
 - potato purée
