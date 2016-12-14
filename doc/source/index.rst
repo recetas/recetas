@@ -42,6 +42,7 @@ Mains
    greek_chicken_soup
    tuna_greensauce
    stuffed_chicken
+   stuffed_zucchini
   
 
 Side dishes
