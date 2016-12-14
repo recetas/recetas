@@ -41,6 +41,7 @@ Mains
    classic_meatballs
    greek_chicken_soup
    tuna_greensauce
+   stuffed_chicken
   
 
 Side dishes
