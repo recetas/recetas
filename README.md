@@ -125,7 +125,7 @@ Currently this will upload all images again, even if they are already there; thi
 
 (The MIT License)
 
-Copyright (c) 2016 Karen E. Cuculiza Mendoza, Nikolaas N. Oosterhof
+Copyright (c) 2016, 2017 Karen E. Cuculiza Mendoza, Nikolaas N. Oosterhof
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
